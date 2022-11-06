@@ -1,0 +1,62 @@
+div {
+    margin :auto;
+}
+
+
+.pict {
+    position : relative;
+    right : 300px;
+    bottom : 100px;
+
+}
+
+.bg{
+    border-collapse: collapse;
+    max-width: 100%;
+    font-family: Arial;
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ 
+.me{
+    position: relative;
+    width: 600px;
+    border: 3px solid #73AD21;
+    top : 250px;
+    left : 150px;
+}
+
+p{
+    font-size : 24px;
+}
+
+.sosmed{
+    bottom: 150px;
+    left : 80px;
+}
+
+.twitter{
+    position: relative;
+    top : 53px;
+    right : 70px;
+}
+
+.ig{
+    position: relative;
+    
+}
+
+.fb{
+    position: relative;
+    bottom : 53px;
+    margin-left : 150px;
+}
+
+.gh{
+    position: relative;
+    bottom : 107px;
+    margin-left : 300px;
+}

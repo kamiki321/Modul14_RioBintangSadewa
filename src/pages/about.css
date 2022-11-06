@@ -1,0 +1,31 @@
+div {
+    margin :auto;
+}
+
+.bg{
+    border-collapse: collapse;
+    max-width: 100%;
+    font-family: Arial;
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container1{
+    position : relative;
+    max-width : 800px;
+    height : 800px;
+}
+
+
+p{
+    font-size : 24px;
+}
+
+
+
+.about{
+    position: relative;
+    top : 200px;
+    
+}
